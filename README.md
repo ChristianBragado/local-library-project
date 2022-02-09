@@ -1,2 +1,2 @@
 # local-library-project
-Module 6 local library project
+Thinkful Module 6: Local Library Project
